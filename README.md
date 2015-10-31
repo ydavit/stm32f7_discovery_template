@@ -1,5 +1,6 @@
 
-=== Introduction ===
+= Introduction
+
 This template is for building STM32F746G-discovery applications under Linux
 using gcc.
 
@@ -16,7 +17,7 @@ http://www.st.com/web/en/catalog/tools/PF261909
 
 The UDEV rules for the F7 discovery board is at utils/49-stlinkv2.rules.
 
-=== Usage ===
+= Usage 
 
 arm-none-eabi-gcc along with other gcc tools should be in the PATH.
 
