@@ -1,0 +1,1 @@
+# stm32f7_discovery_template
